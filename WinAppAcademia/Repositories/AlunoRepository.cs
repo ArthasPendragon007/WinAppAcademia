@@ -68,8 +68,8 @@ namespace WinAppAcademia.Repositories
             using var conn = new NpgsqlConnection(_connectionString);
             conn.Open();
             var sql = @"UPDATE Aluno SET nome = @nome, cpf = @cpf, data_nascimento = @data_nascimento,
-                        sexo = @sexo, telefone = @telefone, email = @email, data_matricula = @data_matricula,
-                        status = @status WHERE id_aluno = @id";
+            sexo = @sexo, telefone = @telefone, email = @email, data_matricula = @data_matricula,
+            status = @status WHERE id = @id";
             using var cmd = new NpgsqlCommand(sql, conn);
             cmd.Parameters.AddWithValue("id", aluno.Id);
             cmd.Parameters.AddWithValue("nome", aluno.Nome);

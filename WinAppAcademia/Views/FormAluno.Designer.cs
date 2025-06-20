@@ -7,8 +7,8 @@ namespace WinAppAcademia.Views
         /// Required designer variable.  
         /// </summary>  
         private System.ComponentModel.IContainer components = null;
+
         private System.Windows.Forms.DataGridView dgvAlunos;
-        private System.Windows.Forms.TextBox  txtId;
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.TextBox txtCpf;
         private System.Windows.Forms.DateTimePicker dtpNascimento;
@@ -37,10 +37,11 @@ namespace WinAppAcademia.Views
             {
                 components.Dispose();
             }
+
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code  
+        #region Windows Form Designer generated code
 
         /// <summary>  
         /// Required method for Designer support - do not modify  
@@ -71,32 +72,34 @@ namespace WinAppAcademia.Views
             // 
             // dgvAlunos
             // 
+            dgvAlunos.ColumnHeadersHeight = 29;
             dgvAlunos.Location = new Point(20, 350);
             dgvAlunos.Name = "dgvAlunos";
+            dgvAlunos.RowHeadersWidth = 51;
             dgvAlunos.Size = new Size(740, 250);
             dgvAlunos.TabIndex = 16;
             dgvAlunos.CellClick += dgvAlunos_CellClick;
             dgvAlunos.CellContentClick += dgvAlunos_CellContentClick;
-            
+            // 
             // txtNome
             // 
             txtNome.Location = new Point(100, 20);
             txtNome.Name = "txtNome";
-            txtNome.Size = new Size(100, 23);
+            txtNome.Size = new Size(100, 27);
             txtNome.TabIndex = 1;
             // 
             // txtCpf
             // 
             txtCpf.Location = new Point(100, 60);
             txtCpf.Name = "txtCpf";
-            txtCpf.Size = new Size(100, 23);
+            txtCpf.Size = new Size(100, 27);
             txtCpf.TabIndex = 3;
             // 
             // dtpMatricula
             // 
             dtpMatricula.Location = new Point(0, 0);
             dtpMatricula.Name = "dtpMatricula";
-            dtpMatricula.Size = new Size(200, 23);
+            dtpMatricula.Size = new Size(200, 27);
             dtpMatricula.TabIndex = 0;
             // 
             // dtpNascimento
@@ -104,7 +107,7 @@ namespace WinAppAcademia.Views
             dtpNascimento.Format = DateTimePickerFormat.Short;
             dtpNascimento.Location = new Point(116, 100);
             dtpNascimento.Name = "dtpNascimento";
-            dtpNascimento.Size = new Size(105, 23);
+            dtpNascimento.Size = new Size(105, 27);
             dtpNascimento.TabIndex = 5;
             // 
             // cbSexo
@@ -113,22 +116,22 @@ namespace WinAppAcademia.Views
             cbSexo.Items.AddRange(new object[] { "M", "F" });
             cbSexo.Location = new Point(100, 140);
             cbSexo.Name = "cbSexo";
-            cbSexo.Size = new Size(121, 23);
+            cbSexo.Size = new Size(121, 28);
             cbSexo.TabIndex = 7;
-            cbSexo.SelectedIndexChanged += this.cbSexo_SelectedIndexChanged;
+            cbSexo.SelectedIndexChanged += cbSexo_SelectedIndexChanged;
             // 
             // txtTelefone
             // 
             txtTelefone.Location = new Point(100, 180);
             txtTelefone.Name = "txtTelefone";
-            txtTelefone.Size = new Size(100, 23);
+            txtTelefone.Size = new Size(100, 27);
             txtTelefone.TabIndex = 9;
             // 
             // txtEmail
             // 
             txtEmail.Location = new Point(100, 220);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(100, 23);
+            txtEmail.Size = new Size(100, 27);
             txtEmail.TabIndex = 11;
             // 
             // cbStatus
@@ -137,14 +140,14 @@ namespace WinAppAcademia.Views
             cbStatus.Items.AddRange(new object[] { "ativo", "inativo" });
             cbStatus.Location = new Point(100, 260);
             cbStatus.Name = "cbStatus";
-            cbStatus.Size = new Size(121, 23);
+            cbStatus.Size = new Size(121, 28);
             cbStatus.TabIndex = 13;
             // 
             // btnSalvar
             // 
             btnSalvar.Location = new Point(100, 300);
             btnSalvar.Name = "btnSalvar";
-            btnSalvar.Size = new Size(75, 23);
+            btnSalvar.Size = new Size(75, 44);
             btnSalvar.TabIndex = 14;
             btnSalvar.Text = "Salvar";
             btnSalvar.Click += btnSalvar_Click;
@@ -153,9 +156,10 @@ namespace WinAppAcademia.Views
             // 
             btnLimpar.Location = new Point(200, 300);
             btnLimpar.Name = "btnLimpar";
-            btnLimpar.Size = new Size(75, 23);
+            btnLimpar.Size = new Size(75, 44);
             btnLimpar.TabIndex = 15;
             btnLimpar.Text = "Limpar";
+            btnLimpar.Click += btnLimpar_Click;
             // 
             // lblNome
             // 
@@ -193,7 +197,7 @@ namespace WinAppAcademia.Views
             // 
             lblTelefone.Location = new Point(20, 180);
             lblTelefone.Name = "lblTelefone";
-            lblTelefone.Size = new Size(100, 23);
+            lblTelefone.Size = new Size(74, 23);
             lblTelefone.TabIndex = 8;
             lblTelefone.Text = "Telefone:";
             // 
@@ -201,7 +205,7 @@ namespace WinAppAcademia.Views
             // 
             lblEmail.Location = new Point(20, 220);
             lblEmail.Name = "lblEmail";
-            lblEmail.Size = new Size(100, 23);
+            lblEmail.Size = new Size(52, 23);
             lblEmail.TabIndex = 10;
             lblEmail.Text = "Email:";
             // 
@@ -209,21 +213,21 @@ namespace WinAppAcademia.Views
             // 
             lblStatus.Location = new Point(20, 260);
             lblStatus.Name = "lblStatus";
-            lblStatus.Size = new Size(100, 23);
+            lblStatus.Size = new Size(52, 23);
             lblStatus.TabIndex = 12;
             lblStatus.Text = "Status:";
+            lblStatus.Click += lblStatus_Click;
             // 
             // FormAluno
             // 
             ClientSize = new Size(800, 620);
-            Controls.Add(lblNome);
             Controls.Add(txtNome);
-            Controls.Add(lblCpf);
             Controls.Add(txtCpf);
-            Controls.Add(lblNascimento);
             Controls.Add(dtpNascimento);
-            Controls.Add(lblSexo);
             Controls.Add(cbSexo);
+            Controls.Add(lblCpf);
+            Controls.Add(lblNascimento);
+            Controls.Add(lblSexo);
             Controls.Add(lblTelefone);
             Controls.Add(txtTelefone);
             Controls.Add(lblEmail);
@@ -233,6 +237,7 @@ namespace WinAppAcademia.Views
             Controls.Add(btnSalvar);
             Controls.Add(btnLimpar);
             Controls.Add(dgvAlunos);
+            Controls.Add(lblNome);
             Name = "FormAluno";
             Text = "Cadastro de Aluno";
             ((System.ComponentModel.ISupportInitialize)dgvAlunos).EndInit();
@@ -240,17 +245,7 @@ namespace WinAppAcademia.Views
             PerformLayout();
         }
 
-        private void dgvAlunos_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-            throw new NotImplementedException();
-        }
 
-
-        private void cbSexo_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
-        #endregion
+        #endregion}
     }
 }
