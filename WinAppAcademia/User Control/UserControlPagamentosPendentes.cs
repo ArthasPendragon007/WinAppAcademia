@@ -28,7 +28,7 @@ namespace WinAppAcademia.UserControls
 
             dgvPagamentosPendentes.Columns.Add(new DataGridViewTextBoxColumn { Name = "IdAluno", HeaderText = "ID Aluno", DataPropertyName = "IdAluno", ReadOnly = true, Width = 80 });
             dgvPagamentosPendentes.Columns.Add(new DataGridViewTextBoxColumn { Name = "AlunoNome", HeaderText = "Nome do Aluno", DataPropertyName = "AlunoNome", ReadOnly = true, AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill });
-            dgvPagamentosPendentes.Columns.Add(new DataGridViewTextBoxColumn { Name = "Valor", HeaderText = "Valor", DataPropertyName = "Valor", ReadOnly = true, Width = 120, DefaultCellStyle = { Format = "C2", Alignment = DataGridViewContentAlignment.MiddleRight } });
+            dgvPagamentosPendentes.Columns.Add(new DataGridViewTextBoxColumn { Name = "Valor", HeaderText = "Valor", DataPropertyName = "Valor", ReadOnly = true, Width = 120, DefaultCellStyle = { Format = "C2", Alignment = DataGridViewContentAlignment.MiddleLeft } });
             dgvPagamentosPendentes.Columns.Add(new DataGridViewTextBoxColumn { Name = "DataPagamento", HeaderText = "Data Vencimento/Registro", DataPropertyName = "DataPagamento", ReadOnly = true, Width = 150, DefaultCellStyle = { Format = "dd/MM/yyyy" } });
 
             // Configurações visuais do DataGridView
