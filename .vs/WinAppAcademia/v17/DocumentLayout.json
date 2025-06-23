@@ -1,46 +1,318 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\",
+  "WorkspaceRootPath": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\winappacademia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\winappacademia.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\repositories\\academiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\academiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\views\\formaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formfrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formfrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formfrequencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formfrequencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formfrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formfrequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontroltotalpagoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontroltotalpagoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontroltotalpagoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontroltotalpagoaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\repositories\\frequenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\frequenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\aula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\frequenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\frequenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\frequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\frequencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\modalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\modalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formequipamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formequipamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formmatricula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formmatricula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolregistrarpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolregistrarpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|c:\\users\\desen\\documents\\github\\winappacademia\\winappacademia\\winappacademia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\winappacademia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\utils\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\utils\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolpagamentospendentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolpagamentospendentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\pagamentopendenteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\pagamentopendenteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\pagamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\repositories\\aularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\repositories\\aularepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\aulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\aulacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolpagamentospendentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolpagamentospendentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolpagamentospendentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolpagamentospendentes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolfrequenciaporaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolfrequenciaporaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolfrequenciaporaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolfrequenciaporaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolfrequenciaporaula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolfrequenciaporaula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolalunosativosmodalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolalunosativosmodalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolalunosativosmodalidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolalunosativosmodalidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolalunosativosmodalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolalunosativosmodalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolatualizarstatusmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolatualizarstatusmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolatualizarstatusmatricula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolatualizarstatusmatricula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolatualizarstatusmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolatualizarstatusmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontroltotalpagoaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontroltotalpagoaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolregistrarpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolregistrarpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolregistrarpagamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolregistrarpagamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\frequenciaporaulaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\frequenciaporaulaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\alunoativomodalidadeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\alunoativomodalidadeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formpagamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formpagamento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formmodalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formmodalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formmodalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formmodalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formmodalidade.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formmodalidade.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formaula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaula.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formprofessor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formprofessor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formacademia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formacademia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\academiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\academiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\models\\academia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\controllers\\modalidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\controllers\\modalidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,61 +324,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Main.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Main.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Main.cs",
-              "RelativeToolTip": "WinAppAcademia\\Main.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:17:45.645Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormAluno.cs",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAluno.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs",
-              "RelativeToolTip": "WinAppAcademia\\Views\\FormAluno.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:32:49.406Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormAluno.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.Designer.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAluno.Designer.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.Designer.cs",
-              "RelativeToolTip": "WinAppAcademia\\Views\\FormAluno.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:36:13.777Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlunoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Repositories\\AlunoRepository.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AlunoRepository.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Repositories\\AlunoRepository.cs",
-              "RelativeToolTip": "WinAppAcademia\\Repositories\\AlunoRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T12:23:23.383Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
@@ -121,74 +338,1004 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormAluno.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAluno.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs [Projeto]",
-              "RelativeToolTip": "WinAppAcademia\\Views\\FormAluno.cs [Projeto]",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Program.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Program.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Program.cs",
+              "RelativeToolTip": "WinAppAcademia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:32:39.755Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Models\\Aluno.cs",
-              "RelativeToolTip": "WinAppAcademia\\Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:17:12.937Z",
+              "WhenOpened": "2025-06-23T05:10:03.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.resx",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Main.resx",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Main.resx",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Main.resx",
-              "RelativeToolTip": "WinAppAcademia\\Main.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-17T23:15:17.774Z",
+              "DocumentIndex": 1,
+              "Title": "WinAppAcademia",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
+              "RelativeDocumentMoniker": "WinAppAcademia\\WinAppAcademia.csproj",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
+              "RelativeToolTip": "WinAppAcademia\\WinAppAcademia.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T04:58:37.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Utils\\Conexao.cs",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
-              "RelativeToolTip": "WinAppAcademia\\Utils\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Main.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.cs",
+              "RelativeToolTip": "WinAppAcademia\\Main.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAxwFEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T23:15:17.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WinAppAcademia.csproj",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
-              "RelativeDocumentMoniker": "WinAppAcademia\\WinAppAcademia.csproj",
-              "ToolTip": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
-              "RelativeToolTip": "WinAppAcademia\\WinAppAcademia.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-17T23:15:13.123Z"
+              "WhenOpened": "2025-06-23T00:49:00.863Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "UserControlTotalPagoAluno.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:43:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormFrequencia.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormFrequencia.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormFrequencia.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:41:38.087Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormFrequencia.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormFrequencia.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormFrequencia.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwIwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:28:31.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormFrequencia.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormFrequencia.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormFrequencia.Designer.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAUwCYBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:28:40.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademiaRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:03:13.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Main.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\Main.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Main.cs",
               "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Main.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T00:22:30.729Z"
+              "WhenOpened": "2025-06-23T04:18:51.897Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlTotalPagoAluno.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:43:43.587Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Main.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Main.Designer.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAmwIoBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:49:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aula.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Aula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Aula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Aula.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Aula.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:06:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrequenciaController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\FrequenciaController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\FrequenciaController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\FrequenciaController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\FrequenciaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:58:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Frequencia.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Frequencia.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Frequencia.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Frequencia.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Frequencia.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:19:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrequenciaRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\FrequenciaRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\FrequenciaRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\FrequenciaRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\FrequenciaRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAArwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:15:54.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Modalidade.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Modalidade.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Modalidade.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Modalidade.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Modalidade.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:43:03.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormEquipamento.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormEquipamento.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormEquipamento.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAArwG4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:45:55.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormAula.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAula.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwLIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:16:34.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormMatricula.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormMatricula.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormMatricula.Designer.cs",
+              "ViewState": "AgIAADYBAAAAAAAAAAArwEUBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:24:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormMatricula.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormMatricula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormMatricula.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:24:32.34Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Aluno.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Aluno.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:09:46.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Professor.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Professor.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:54:15.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AlunoRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AlunoRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\AlunoRepository.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAqwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:02:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\DashboardRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\DashboardRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\DashboardRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:38:34.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormEquipamento.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormEquipamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormEquipamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:45:52.013Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBconfig.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\DBconfig.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Utils\\DBconfig.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\DBconfig.cs",
+              "RelativeToolTip": "WinAppAcademia\\Utils\\DBconfig.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:51:02.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserControlRegistrarPagamento.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:42:50.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserControlPagamentosPendentes.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:47:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PagamentoPendenteView.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\PagamentoPendenteView.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\PagamentoPendenteView.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\PagamentoPendenteView.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\PagamentoPendenteView.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:35:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Utils\\Conexao.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
+              "RelativeToolTip": "WinAppAcademia\\Utils\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:52:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PagamentoRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\PagamentoRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\PagamentoRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\PagamentoRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\PagamentoRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:38:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Pagamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Pagamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Pagamento.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:21:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormPagamento.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormPagamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormPagamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormPagamento.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormPagamento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCIAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:29:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormPagamento.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormPagamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormPagamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormPagamento.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormPagamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:29:25.825Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormAluno.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAluno.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAluno.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAlwIgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:49:03.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\AlunoController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA7wCkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:47:21.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AulaController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AulaController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\AulaController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AulaController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\AulaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:55:23.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AulaRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AulaRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AulaRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AulaRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\AulaRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwJQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T23:01:35.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EquipamentoController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\EquipamentoController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\EquipamentoController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\EquipamentoController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\EquipamentoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:16:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MatriculaController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\MatriculaController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\MatriculaController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\MatriculaController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\MatriculaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:56:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserControlPagamentosPendentes.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlPagamentosPendentes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:47:15.186Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserControlPagamentosPendentes.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlPagamentosPendentes.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlPagamentosPendentes.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlPagamentosPendentes.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlPagamentosPendentes.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:47:18.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserControlFrequenciaPorAula.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:46:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserControlFrequenciaPorAula.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:46:01.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserControlFrequenciaPorAula.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlFrequenciaPorAula.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:45:59.325Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserControlAlunosAtivosModalidades.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:45:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserControlAlunosAtivosModalidades.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:45:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserControlAlunosAtivosModalidades.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlAlunosAtivosModalidades.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:45:17.639Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserControlAtualizarStatusMatricula.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:44:43.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserControlAtualizarStatusMatricula.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:44:36.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserControlAtualizarStatusMatricula.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlAtualizarStatusMatricula.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:44:34.617Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserControlTotalPagoAluno.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:43:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserControlRegistrarPagamento.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:42:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserControlRegistrarPagamento.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:42:28.545Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrequenciaPorAulaView.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\FrequenciaPorAulaView.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\FrequenciaPorAulaView.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\FrequenciaPorAulaView.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\FrequenciaPorAulaView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:34:44.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AlunoAtivoModalidadeView.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\AlunoAtivoModalidadeView.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\AlunoAtivoModalidadeView.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\AlunoAtivoModalidadeView.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\AlunoAtivoModalidadeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:34:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormPagamento.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormPagamento.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormPagamento.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormPagamento.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormPagamento.Designer.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAowCsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:29:28.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Matricula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Matricula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Matricula.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Matricula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:22:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormModalidade.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormModalidade.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormModalidade.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormModalidade.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormModalidade.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:21:08.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormModalidade.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormModalidade.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormModalidade.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormModalidade.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormModalidade.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAowA4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:20:58.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormModalidade.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormModalidade.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormModalidade.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormModalidade.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormModalidade.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:20:51.642Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PagamentoController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\PagamentoController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\PagamentoController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\PagamentoController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\PagamentoController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:15:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormMatricula.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormMatricula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormMatricula.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAowOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:24:54.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormAula.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAula.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAula.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:15:52.813Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormAula.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAula.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAula.Designer.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAowH8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:16:39.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FormProfessor.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormProfessor.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormProfessor.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormProfessor.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormProfessor.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAwPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:07:36.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FormProfessor.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormProfessor.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormProfessor.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormProfessor.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormProfessor.Designer.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAAwI0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T00:07:21.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FormProfessor.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormProfessor.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormProfessor.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormProfessor.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormProfessor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:40:40.962Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FormAluno.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAluno.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAluno.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:40:38.262Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FormEquipamento.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormEquipamento.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormEquipamento.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAYwM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:46:18.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FormAcademia.cs [Projeto]",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAcademia.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.cs [Projeto]",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAcademia.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:20:22.435Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FormAcademia.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAcademia.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAcademia.Designer.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAwCYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:21:42.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Academia.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Academia.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Academia.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Academia.cs",
+              "RelativeToolTip": "WinAppAcademia\\Models\\Academia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:23:22.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FormAcademia.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAcademia.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAcademia.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAkwJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:20:27.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\ProfessorController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\ProfessorController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:16:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AcademiaController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AcademiaController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\AcademiaController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AcademiaController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\AcademiaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:54:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FormAluno.Designer.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.Designer.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAluno.Designer.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAluno.Designer.cs",
+              "RelativeToolTip": "WinAppAcademia\\Views\\FormAluno.Designer.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAAwHcBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:48:50.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ModalidadeController.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\ModalidadeController.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\ModalidadeController.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\ModalidadeController.cs",
+              "RelativeToolTip": "WinAppAcademia\\Controllers\\ModalidadeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:55:03.209Z",
+              "EditorCaption": ""
             }
           ]
         }

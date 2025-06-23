@@ -12,10 +12,9 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\desen\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\desen\\.nuget\\packages",
-      "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\augus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\augus\\.nuget\\packages",
+      "D:\\VisualStudioCode\\shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,13 +25,13 @@ namespace WinAppAcademia.Repositories
             using var conn = new NpgsqlConnection(_connectionString);
             conn.Open();
 
-            using var cmd = new NpgsqlCommand("SELECT * FROM Aluno ORDER BY id", conn);
+            using var cmd = new NpgsqlCommand("SELECT * FROM Aluno ORDER BY id_aluno", conn);
             using var reader = cmd.ExecuteReader();
             while (reader.Read())
             {
                 lista.Add(new Aluno
                 {
-                    Id = reader.GetInt32(0),
+                    IdAluno = reader.GetInt32(0),
                     Nome = reader.GetString(1),
                     CPF = reader.GetString(2),
                     DataNascimento = reader.IsDBNull(3) ? DateTime.MinValue : reader.GetDateTime(3),
@@ -45,7 +46,48 @@ namespace WinAppAcademia.Repositories
             return lista;
         }
 
-        public void Inserir(Aluno aluno)
+        public Aluno GetById(int id)
+        {
+            Aluno Aluno = null;
+            using var conn = new NpgsqlConnection(_connectionString);
+            conn.Open();
+
+            string query = @"
+                SELECT
+                    a.Id,
+                    a.nome,
+                    a.cpf,
+                    a.data_nascimento,
+                    a.sexo,
+                    a.telefone,
+                    m.email,
+                    a.data_matricula
+                    a.status
+                FROM Aluno a
+                WHERE a.id_aula = @Id";
+            using var cmd = new NpgsqlCommand(query, conn);
+            cmd.Parameters.AddWithValue("id_aula", id);
+            using var reader = cmd.ExecuteReader();
+            if (reader.Read())
+            {
+                Aluno = new Aluno
+                {
+                    IdAluno = reader.GetInt32(0),
+                    Nome = reader.GetString(1),
+                    CPF = reader.GetString(2),
+                    DataNascimento = reader.IsDBNull(3) ? DateTime.MinValue : reader.GetDateTime(3),
+                    Sexo = reader.IsDBNull(4) ? "" : reader.GetString(4),
+                    Telefone = reader.IsDBNull(5) ? "" : reader.GetString(5),
+                    Email = reader.IsDBNull(6) ? "" : reader.GetString(6),
+                    DataMatricula = reader.IsDBNull(7) ? DateTime.MinValue : reader.GetDateTime(7),
+                    Status = reader.GetString(8)
+                };
+            }
+            return Aluno;
+        }
+     
+
+        public void Add(Aluno aluno)
         {
             using var conn = new NpgsqlConnection(_connectionString);
             conn.Open();
@@ -63,15 +105,15 @@ namespace WinAppAcademia.Repositories
             cmd.ExecuteNonQuery();
         }
 
-        public void Atualizar(Aluno aluno)
+        public void Update(Aluno aluno)
         {
             using var conn = new NpgsqlConnection(_connectionString);
             conn.Open();
             var sql = @"UPDATE Aluno SET nome = @nome, cpf = @cpf, data_nascimento = @data_nascimento,
             sexo = @sexo, telefone = @telefone, email = @email, data_matricula = @data_matricula,
-            status = @status WHERE id = @id";
+            status = @status WHERE id_aluno = @id";
             using var cmd = new NpgsqlCommand(sql, conn);
-            cmd.Parameters.AddWithValue("id", aluno.Id);
+            cmd.Parameters.AddWithValue("id", aluno.IdAluno);
             cmd.Parameters.AddWithValue("nome", aluno.Nome);
             cmd.Parameters.AddWithValue("cpf", aluno.CPF);
             cmd.Parameters.AddWithValue("data_nascimento", aluno.DataNascimento);
@@ -83,7 +125,7 @@ namespace WinAppAcademia.Repositories
             cmd.ExecuteNonQuery();
         }
 
-        public void Excluir(int idAluno)
+        public void Delete(int idAluno)
         {
             using var conn = new NpgsqlConnection(_connectionString);
             conn.Open();

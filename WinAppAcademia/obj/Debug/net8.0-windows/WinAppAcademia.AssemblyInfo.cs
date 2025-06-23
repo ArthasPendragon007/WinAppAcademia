@@ -13,8 +13,9 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinAppAcademia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Aplicativo para controle de academia basico")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc376d596411eefb929160985450df97adb33ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5f9b98ed1d6ca4574fb9d645230123e6261c8de")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinAppAcademia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinAppAcademia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

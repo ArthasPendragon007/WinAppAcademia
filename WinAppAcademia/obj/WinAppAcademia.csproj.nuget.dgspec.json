@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj": {}
+    "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj": {
+    "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
+        "projectUniqueName": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
         "projectName": "WinAppAcademia",
-        "projectPath": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
-        "packagesPath": "C:\\Users\\desen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desen\\Documents\\GitHub\\WinAppAcademia\\WinAppAcademia\\obj\\",
+        "projectPath": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
+        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\VisualStudioCode\\shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\desen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,8 +25,8 @@
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -77,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

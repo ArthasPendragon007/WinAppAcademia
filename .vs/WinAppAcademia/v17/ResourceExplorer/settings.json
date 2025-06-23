@@ -1,17 +1,1 @@
-{
-  "ShowEmptyProjects": false,
-  "SelectedGroups": [],
-  "ExpandedProjects": [],
-  "EnableSpellChecker": true,
-  "ColumnOrder": [
-    "name",
-    "type",
-    "neutral-value",
-    "neutral-comment"
-  ],
-  "VisibleColumnKeys": [
-    "name",
-    "neutral-comment",
-    "neutral-value"
-  ]
-}
+{"ShowEmptyProjects":false,"CustomColumnOrderings":{},"ShowValidationErrors":true,"SelectedResourceGroupsByProjectFilePath":{"D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj":["D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.resx"]},"VisibleColumnKeys":["name","neutral-comment","neutral-value"]}

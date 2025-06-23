@@ -8,7 +8,7 @@ namespace WinAppAcademia.Models
 {
     internal class Aluno
     {
-        public required int Id { get; set; }
+        public required int IdAluno { get; set; }
         public required string Nome { get; set; }
         public required string CPF { get; set; }
         public DateTime DataNascimento { get; set; }

@@ -11,7 +11,7 @@ namespace WinAppAcademia.Utils
         public static string ObterStringConexao()
         {
             string host = ObterVariavelAmbiente("POSTGRES_HOST", "localhost");
-            string user = ObterVariavelAmbiente("POSTGRES_USER", "academia_user");
+            string user = ObterVariavelAmbiente("POSTGRES_USER", "postgres");
             string password = ObterVariavelAmbiente("POSTGRES_PASSWORD", "1234");
             string database = ObterVariavelAmbiente("POSTGRES_DATABASE", "academia");
 
