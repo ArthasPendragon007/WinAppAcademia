@@ -8,7 +8,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Description>Aplicativo para controle de academia basico</Description>
     <PackageIcon>Icon.ico</PackageIcon>
-    <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
