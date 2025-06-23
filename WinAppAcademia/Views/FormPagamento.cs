@@ -33,7 +33,7 @@ namespace WinAppAcademia.Views
             dgvPagamentos.Columns.Add(new DataGridViewTextBoxColumn { Name = "IdPagamento", HeaderText = "ID", DataPropertyName = "IdPagamento", ReadOnly = true, Width = 60 });
             dgvPagamentos.Columns.Add(new DataGridViewTextBoxColumn { Name = "NomeAluno", HeaderText = "Aluno", DataPropertyName = "NomeAluno", ReadOnly = true, Width = 200 });
             dgvPagamentos.Columns.Add(new DataGridViewTextBoxColumn { Name = "DataPagamento", HeaderText = "Data Pagamento", DataPropertyName = "DataPagamento", ReadOnly = true, Width = 120, DefaultCellStyle = { Format = "dd/MM/yyyy" } });
-            dgvPagamentos.Columns.Add(new DataGridViewTextBoxColumn { Name = "Valor", HeaderText = "Valor", DataPropertyName = "Valor", ReadOnly = true, Width = 120, DefaultCellStyle = { Format = "C2", Alignment = DataGridViewContentAlignment.MiddleRight } }); // Formato monetário
+            dgvPagamentos.Columns.Add(new DataGridViewTextBoxColumn { Name = "Valor", HeaderText = "Valor", DataPropertyName = "Valor", ReadOnly = true, Width = 120, DefaultCellStyle = { Format = "C2", Alignment = DataGridViewContentAlignment.MiddleLeft } }); // Formato monetário
             dgvPagamentos.Columns.Add(new DataGridViewTextBoxColumn { Name = "StatusPagamento", HeaderText = "Status", DataPropertyName = "StatusPagamento", ReadOnly = true, AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill });
 
             // Configurações visuais do DataGridView (mantidas do FormAluno)

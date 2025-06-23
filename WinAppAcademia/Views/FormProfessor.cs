@@ -240,5 +240,7 @@ namespace WinAppAcademia.Views
 
         // Eventos vazios, caso o designer os crie:
         private void FormProfessor_Load(object sender, EventArgs e) { }
+
+
     }
 }
