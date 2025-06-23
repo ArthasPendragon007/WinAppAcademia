@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\views\\formacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\views\\formacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,10 +127,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\user control\\usercontrolregistrarpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\user control\\usercontrolregistrarpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|solutionrelative:winappacademia\\utils\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE41E670-A48A-4914-9142-5AA836137AD1}|WinAppAcademia\\WinAppAcademia.csproj|d:\\visualstudiocode\\projects\\winappacademia\\winappacademia\\utils\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -324,7 +324,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -344,32 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WinAppAcademia",
-              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
-              "RelativeDocumentMoniker": "WinAppAcademia\\WinAppAcademia.csproj",
-              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
-              "RelativeToolTip": "WinAppAcademia\\WinAppAcademia.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T04:58:37.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AcademiaRepository.cs",
-              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AcademiaRepository.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AcademiaRepository.cs",
-              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AcademiaRepository.cs",
-              "RelativeToolTip": "WinAppAcademia\\Repositories\\AcademiaRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T22:03:13.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Main.cs [Projeto]",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Main.cs",
@@ -380,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FormFrequencia.cs [Projeto]",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormFrequencia.cs",
@@ -391,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AlunoController.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\AlunoController.cs",
@@ -404,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AcademiaController.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\AcademiaController.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\AcademiaController.cs",
@@ -417,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Academia.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Academia.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Academia.cs",
@@ -430,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormAcademia.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAcademia.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAcademia.cs",
@@ -443,7 +418,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Utils\\Conexao.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
+              "RelativeToolTip": "WinAppAcademia\\Utils\\Conexao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T01:52:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademiaRepository.cs",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "RelativeToolTip": "WinAppAcademia\\Repositories\\AcademiaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:03:13.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinAppAcademia",
+              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
+              "RelativeDocumentMoniker": "WinAppAcademia\\WinAppAcademia.csproj",
+              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\WinAppAcademia.csproj",
+              "RelativeToolTip": "WinAppAcademia\\WinAppAcademia.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T04:58:37.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FormFrequencia.Designer.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.Designer.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormFrequencia.Designer.cs",
@@ -455,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserControlTotalPagoAluno.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
@@ -468,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Main.cs",
@@ -481,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Main.Designer.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Main.Designer.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Main.Designer.cs",
@@ -493,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "NuGet.Build.Tasks.Pack.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\NuGet.Build.Tasks.Pack\\build\\NuGet.Build.Tasks.Pack.targets",
@@ -503,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FormFrequencia.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormFrequencia.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormFrequencia.cs",
@@ -515,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationConfiguration.g.cs",
               "DocumentMoniker": "C:\\Users\\augus\\AppData\\Local\\Temp\\.vsdbgsrc\\f6c5f2ca9118f295fc868334b204a89e8e770a6f\\ApplicationConfiguration.g.cs",
               "ToolTip": "C:\\Users\\augus\\AppData\\Local\\Temp\\.vsdbgsrc\\f6c5f2ca9118f295fc868334b204a89e8e770a6f\\ApplicationConfiguration.g.cs [Somente Leitura]",
@@ -526,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UserControlTotalPagoAluno.cs [Projeto]",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlTotalPagoAluno.cs",
@@ -537,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Aula.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Aula.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Aula.cs",
@@ -549,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FrequenciaController.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Controllers\\FrequenciaController.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Controllers\\FrequenciaController.cs",
@@ -561,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Frequencia.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Frequencia.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Frequencia.cs",
@@ -573,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FrequenciaRepository.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\FrequenciaRepository.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\FrequenciaRepository.cs",
@@ -585,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Modalidade.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Modalidade.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Modalidade.cs",
@@ -597,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "FormEquipamento.Designer.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.Designer.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormEquipamento.Designer.cs",
@@ -609,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "FormAula.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormAula.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormAula.cs",
@@ -622,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FormMatricula.Designer.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.Designer.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormMatricula.Designer.cs",
@@ -634,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "FormMatricula.cs [Projeto]",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormMatricula.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormMatricula.cs",
@@ -645,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Aluno.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Aluno.cs",
@@ -657,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Professor.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Models\\Professor.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Models\\Professor.cs",
@@ -669,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AlunoRepository.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\AlunoRepository.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\AlunoRepository.cs",
@@ -681,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "DashboardRepository.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Repositories\\DashboardRepository.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Repositories\\DashboardRepository.cs",
@@ -693,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "FormEquipamento.cs [Projeto]",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Views\\FormEquipamento.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\Views\\FormEquipamento.cs",
@@ -716,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "UserControlRegistrarPagamento.cs",
               "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
               "RelativeDocumentMoniker": "WinAppAcademia\\User Control\\UserControlRegistrarPagamento.cs",
@@ -751,18 +764,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T00:35:11.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
-              "RelativeDocumentMoniker": "WinAppAcademia\\Utils\\Conexao.cs",
-              "ToolTip": "D:\\VisualStudioCode\\projects\\WinAppAcademia\\WinAppAcademia\\Utils\\Conexao.cs",
-              "RelativeToolTip": "WinAppAcademia\\Utils\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:52:02.152Z"
             },
             {
               "$type": "Document",
