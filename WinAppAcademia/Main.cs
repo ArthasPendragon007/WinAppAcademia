@@ -20,12 +20,12 @@ namespace WinAppAcademia
             relogioTimer.Start();
 
             // Ao iniciar, podemos carregar uma das telas de dashboard por padrão
-            CarregarUserControl(new UserControlAlunosAtivosModalidades());
         }
 
         private void Main_Load(object sender, EventArgs e)
         {
             DBconfig.CriarEstruturaDoBanco();
+            CarregarUserControl(new UserControlAlunosAtivosModalidades());
         }
 
         private void relogioTimer_Tick(object sender, EventArgs e)

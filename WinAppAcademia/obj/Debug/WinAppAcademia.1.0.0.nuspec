@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WinAppAcademia</id>
+    <version>1.0.0</version>
+    <authors>WinAppAcademia</authors>
+    <icon>Icon.ico</icon>
+    <description>Aplicativo para controle de academia basico</description>
+    <repository type="git" commit="fb5631ca77ad31726796463252c5f8cf0e8a3b62" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Npgsql" version="9.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/Icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Debug\net8.0-windows\WinAppAcademia.runtimeconfig.json" target="lib\net8.0-windows7.0\WinAppAcademia.runtimeconfig.json" />
+    <file src="D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Debug\net8.0-windows\WinAppAcademia.dll" target="lib\net8.0-windows7.0\WinAppAcademia.dll" />
+    <file src="D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\Icon.ico" target="content\Icon.ico" />
+    <file src="D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\Icon.ico" target="contentFiles\any\net8.0-windows7.0\Icon.ico" />
+    <file src="D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\Icon.ico" target="\Icon.ico" />
+  </files>
+</package>

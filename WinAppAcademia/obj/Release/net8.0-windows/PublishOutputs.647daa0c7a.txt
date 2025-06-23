@@ -1,0 +1,8 @@
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\WinAppAcademia.exe
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\WinAppAcademia.dll
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\WinAppAcademia.deps.json
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\WinAppAcademia.runtimeconfig.json
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\WinAppAcademia.pdb
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudioCode\projects\WinAppAcademia\WinAppAcademia\bin\Release\net8.0-windows\app.publish\Npgsql.dll
